@@ -1,0 +1,62 @@
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.pdb
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.dll
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.Interface.dll
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\MvvmHelpers.dll
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Newtonsoft.Json.dll
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Splat.dll
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.Interface.pdb
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\MvvmHelpers.xml
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Newtonsoft.Json.xml
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll
+D:\Xamarin Dev Days\Demos\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.pdb
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.pdb
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.dll
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\MvvmHelpers.dll
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Splat.dll
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\MvvmHelpers.xml
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll
+C:\Users\Administrator\Desktop\Xamarin-Dev-Days-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.pdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.pdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.dll
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.Interface.dll
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\MvvmHelpers.dll
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Newtonsoft.Json.dll
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Splat.dll
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Acr.UserDialogs.Interface.pdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\MvvmHelpers.xml
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\Newtonsoft.Json.xml
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.csprojResolveAssemblyReference.cache
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.pdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\obj\Debug\ImageSearch.dll.mdb
+D:\XDD-Code-Demo\IntorductionToXamarin\app-imagesearch-cogs\ImageSearch\ImageSearch\bin\Debug\ImageSearch.dll.mdb
